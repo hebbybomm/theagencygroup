@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>agencygroup &#8211; Agency Group</title>
+	<atom:link href="/author/wp_static/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Home Network Services</description>
+	<lastBuildDate>Thu, 04 Feb 2021 14:40:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6.1</generator>
+	<item>
+		<title>What is a LTE box? For this you need the box</title>
+		<link>/what-is-a-lte-box-for-this-you-need-the-box/</link>
+					<comments>/what-is-a-lte-box-for-this-you-need-the-box/#respond</comments>
+		
+		<dc:creator><![CDATA[agencygroup]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 14:40:10 +0000</pubDate>
+				<category><![CDATA[wifi]]></category>
+		<guid isPermaLink="false">/?p=21</guid>
+
+					<description><![CDATA[For people who do not have a DSL connection in their house or apartment, buying or renting an LTE box is interesting. What exactly is an LTE box and how to connect it correctly, we&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>For people who do not have a DSL connection in their house or apartment, buying or renting an LTE box is interesting. What exactly is an LTE box and how to connect it correctly, we explain in our article step by step.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="626" height="536" src="/wp-content/uploads/2021/02/modern-modem-with-blue-light_96743-255.jpg" alt="" class="wp-image-22" srcset="/wp-content/uploads/2021/02/modern-modem-with-blue-light_96743-255.jpg 626w, /wp-content/uploads/2021/02/modern-modem-with-blue-light_96743-255-300x257.jpg 300w" sizes="(max-width: 626px) 100vw, 626px" /></figure>
+
+
+
+<h3>How an LTE box works</h3>
+
+
+
+<p>An LTE box, also called a <a href="https://en.wikipedia.org/wiki/4G" data-type="URL" data-id="https://en.wikipedia.org/wiki/4G">4G</a> router, is a special router that uses the mobile standard LTE instead of DSL to surf the Internet. The use of an LTE box is particularly useful in areas with poor <a href="https://www.attinternetservice.com/resources/what-is-dsl-internet/" data-type="URL" data-id="https://www.attinternetservice.com/resources/what-is-dsl-internet/">DSL </a>coverage or when access to the Internet via cable or DSL is not possible. Often, LTE boxes are also used as a backup solution, which are used if the DSL connection fails once.</p>
+
+
+
+<ol><li>Unlike classic DSL, LTE requires a SIM card, which is inserted into the corresponding slot of the LTE box.</li><li>It is important that the SIM card has a sufficiently large data volume, since the mobile network is used to establish an Internet connection.</li><li>In addition to the pure LTE boxes, there are also so-called hybrid routers that have LTE or 4G as a supplement to DSL. So far, however, there are with <a href="https://www.192-168-1-1-ip.co/avm/routers/215/" data-type="URL" data-id="https://www.192-168-1-1-ip.co/avm/routers/215/">AVM </a>and <a href="https://www.192-168-1-1-ip.co/deutsche-telekom/routers/492/">Telekom </a>only two providers who have such hybrid <a href="https://www.192-168-1-1-ip.co/router-companies-list/" data-type="URL" data-id="https://www.192-168-1-1-ip.co/router-companies-list/">routers </a>in the offer.</li></ol>
+
+
+
+<h3>With this procedure you set up an LTE box</h3>
+
+
+
+<p>Have you bought an LTE box or rented it from your Internet provider, it is necessary in a next step to connect the box. Here, unlike a DSL router, you do not need to connect the device to the telephone socket, but you will need a SIM card. Please insert it into the SIM card slot of the LTE box and connect it to the power supply.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/what-is-a-lte-box-for-this-you-need-the-box/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Change MAC address: Android &#8211; this is how it works</title>
+		<link>/change-mac-address-android-this-is-how-it-works/</link>
+					<comments>/change-mac-address-android-this-is-how-it-works/#respond</comments>
+		
+		<dc:creator><![CDATA[agencygroup]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 14:37:20 +0000</pubDate>
+				<category><![CDATA[wifi]]></category>
+		<guid isPermaLink="false">/?p=17</guid>
+
+					<description><![CDATA[Your device can be uniquely identified in a network via a hardware network address, the so-called MAC address. So if you do not want you can be traced, you should try to change your MAC&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>Your device can be uniquely identified in a network via a hardware network address, the so-called MAC address. So if you do not want you can be traced, you should try to change your MAC address. Although this requires a little effort on Android 11, it is still possible.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="450" height="450" src="/wp-content/uploads/2021/02/26.jpg" alt="" class="wp-image-18" srcset="/wp-content/uploads/2021/02/26.jpg 450w, /wp-content/uploads/2021/02/26-300x300.jpg 300w, /wp-content/uploads/2021/02/26-150x150.jpg 150w" sizes="(max-width: 450px) 100vw, 450px" /></figure>
+
+
+
+<h3><strong>How to change your MAC address on Android 11</strong></h3>
+
+
+
+<p>The so-called MAC address is a physical hardware address that uniquely identifies your device on a network. If you do not want to be identified by your MAC address in a network, you need to change it. However, you first have to root your device under Android 11 and install a third-party software that then simulates an alternative MAC address to other network participants. Rooting is necessary to get full access to all system data. However, you should only root your device if you know exactly what you are doing, as doing so may cause damage to your device and data.</p>
+
+
+
+<ol><li>Download a root tool for Android to your computer.</li><li>Connect your Android device to the computer via USB and perform rooting according to the tool&#8217;s instructions.</li><li>After rooting is complete, you can install apps like <a href="https://play.google.com/store/apps/details?id=eu.chainfire.pryfi&amp;hl=en&amp;gl=US" data-type="URL" data-id="https://play.google.com/store/apps/details?id=eu.chainfire.pryfi&amp;hl=en&amp;gl=US">Pry-Fi</a> or <a href="https://play.google.com/store/apps/details?id=com.wireless.macchanger&amp;hl=en&amp;gl=US" data-type="URL" data-id="https://play.google.com/store/apps/details?id=com.wireless.macchanger&amp;hl=en&amp;gl=US">Wi-Fi Mac Changer</a> that are able to change your MAC address.</li><li>Start the respective app and configure to change your MAC address.</li></ol>
+]]></content:encoded>
+					
+					<wfw:commentRss>/change-mac-address-android-this-is-how-it-works/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Wi-Fi: Change name &#8211; this is how it is possible</title>
+		<link>/wi-fi-change-name-this-is-how-it-is-possible/</link>
+					<comments>/wi-fi-change-name-this-is-how-it-is-possible/#respond</comments>
+		
+		<dc:creator><![CDATA[agencygroup]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2021 14:35:37 +0000</pubDate>
+				<category><![CDATA[wifi]]></category>
+		<guid isPermaLink="false">/?p=13</guid>
+
+					<description><![CDATA[To clearly identify the Wi-Fi of your router, it is recommended to change its name. Since the Wi-Fi connection normally bears the name of your router, changing the Wi-Fi name is only possible via the&#8230; ]]></description>
+										<content:encoded><![CDATA[
+<p>To clearly identify the Wi-Fi of your router, it is recommended to change its name. Since the Wi-Fi connection normally bears the name of your router, changing the Wi-Fi name is only possible via the user interface of the device.</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="300" height="233" src="/wp-content/uploads/2021/02/wifi_router_300.jpg" alt="" class="wp-image-14"/></figure>
+
+
+
+<h3>With this procedure you change the Wi-Fi name</h3>
+
+
+
+<p>By default, a Wi-Fi network is displayed under the name of the respective router. To change this name, which is also called SSID, you need a computer connected to the router and open the user interface of the device.</p>
+
+
+
+<ol><li>To do this, first launch any browser on your PC or Mac and enter the IP address of the router in the address bar there.</li><li>Wait until the user interface of your router loads and log in there with your user data.</li><li>Now navigate to &#8220;Wi-Fi&#8221; or &#8220;Settings&#8221; in the menu and look for the entry &#8220;Wi-Fi Name&#8221; or &#8220;<a href="https://www.cox.com/residential/support/finding-your-in-home-wifi-network-ssid-or-password.html" data-type="URL" data-id="https://www.cox.com/residential/support/finding-your-in-home-wifi-network-ssid-or-password.html">SSID</a>&#8221; to view the current router name.</li><li>Now type a new name for your Wi-Fi network in the appropriate field and click &#8220;Apply&#8221; to save the change.</li></ol>
+
+
+
+<h3>Wi-Fi name: How to change the password of your Wi-Fi</h3>
+
+
+
+<p>In addition to the name of your Wi-Fi, you can also change the associated Wi-Fi password, which is required to get access to the network. This change is also possible via the <a href="https://www.192-168-1-1-ip.co/default-router-login-ips/" data-type="URL" data-id="https://www.192-168-1-1-ip.co/default-router-login-ips/">router&#8217;s user interface</a>, which you can access as described above. Depending on which router you are using, click on &#8220;Wi-Fi&#8221; or &#8220;Security&#8221; and look for the entry &#8220;Wi-Fi key&#8221; or &#8220;Network key&#8221; to set a new password.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/wi-fi-change-name-this-is-how-it-is-possible/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
